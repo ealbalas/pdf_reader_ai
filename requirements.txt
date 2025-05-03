@@ -18,3 +18,4 @@ uuid==1.30
 langfuse==1.0.18
 backoff==2.2.1
 redis==5.0.0
+gunicorn==21.2.0
